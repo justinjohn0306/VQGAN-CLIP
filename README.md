@@ -1,4 +1,4 @@
-# VQGAN-CLIP
+# VQGAN+CLIP
 VQGAN+CLIP Colab Notebook with user-friendly interface.
 
 Link to Google Colab notebook: [![Open In Colab][colab-badge]][colab-notebook]

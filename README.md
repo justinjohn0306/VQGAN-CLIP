@@ -9,7 +9,7 @@ Link to Google Colab notebook: [![Open In Colab][colab-badge]][colab-notebook]
 
 NOTE: If you want to use models like SFLCKR: Make sure to uncomment a line of code in "Installation of libraries" section as shown below.
 
-<img src="./Resources/snip33.PNG" width="512px">
+<img src="./Resources/snip33.PNG" width="1024px">
 
 
 

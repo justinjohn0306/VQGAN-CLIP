@@ -7,7 +7,8 @@ Link to Google Colab notebook: [![Open In Colab][colab-badge]][colab-notebook]
 [colab-badge]: <https://colab.research.google.com/assets/colab-badge.svg>
 
 
-NOTE: If you want to use models like SFLCKR: Make sure to uncomment a line of code in "Installation of libraries" section as shown below.
+NOTE: If you want to use models like SFLCKR:- 
+Make sure to uncomment a line of code in "Installation of libraries" section as shown below.
 
 <img src="./Resources/snip33.PNG" width="3840px">
 

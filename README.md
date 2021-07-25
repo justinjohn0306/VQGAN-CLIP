@@ -3,7 +3,11 @@ VQGAN+CLIP Colab Notebook with user-friendly interface.
 
 
 **Official Links**
-- **Original**: [Link](https://colab.research.google.com/github/justinjohn0306/VQGAN-CLIP/blob/main/VQGAN%2BCLIP_(Updated).ipynb) 
+- **Original**:[![Open In Colab][colab-badge]][colab-notebook]
+
+[notebook]: <https://colab.research.google.com/github/justinjohn0306/VQGAN-CLIP/blob/main/VQGAN%2BCLIP_(Updated).ipynb>
+
+[colab-badge]: <https://colab.research.google.com/assets/colab-badge.svg> 
 
 - **Mse regulized Modified VQGANCLIP zquantize**: [![Open In Colab][colab-badge]][colab-notebook]
 

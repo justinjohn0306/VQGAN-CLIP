@@ -4,8 +4,8 @@ VQGAN+CLIP Colab Notebook with user-friendly interface.
 
 
 **Official Links**
-- ****: [Link](https://colab.research.google.com/github/justinjohn0306/VQGAN-CLIP/blob/main/VQGAN%2BCLIP(Updated).ipynb) -- Latest release
-- ****: [Link](https://colab.research.google.com/github/justinjohn0306/VQGAN-CLIP/blob/main/VQGAN%2BCLIP_(Zooming)_(z%2Bquantize_method_with_addons).ipynb) -- Latest release with few addons 
+- **Latest release**: [Link](https://colab.research.google.com/github/justinjohn0306/VQGAN-CLIP/blob/main/VQGAN%2BCLIP(Updated).ipynb) -- Latest release
+- **Zooming (W.I.P)**: [Link](https://colab.research.google.com/github/justinjohn0306/VQGAN-CLIP/blob/main/VQGAN%2BCLIP_(Zooming)_(z%2Bquantize_method_with_addons).ipynb) -- Latest release with few addons 
 
 
 

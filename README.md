@@ -1,4 +1,4 @@
-# VQGAN+CLIP
+# VQGAN+CLIP and other image generation system
 VQGAN+CLIP Colab Notebook with user-friendly interface.
 
 
@@ -11,6 +11,9 @@ VQGAN+CLIP Colab Notebook with user-friendly interface.
  
  
 **PixelDrawer**: <a href="https://colab.research.google.com/github/justinjohn0306/VQGAN-CLIP/blob/main/PixelDrawer.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
+
+**Pixray Panorama Demo**: <a href="https://colab.research.google.com/github/justinjohn0306/VQGAN-CLIP/blob/main/Pixray_Panorama_Demo.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
  
  
  
